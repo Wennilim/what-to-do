@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'http://192.168.0.145:8000';
+const baseUrl = 'https://what-to-do-backend.onrender.com';
 
 const getAllTodos = async setTodo => {
   try {
